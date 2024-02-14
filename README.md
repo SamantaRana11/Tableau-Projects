@@ -17,7 +17,7 @@ This repository contains all the visualizations from existing projects and some 
 #
 
 
-<img width="492" alt="Screenshot 2024-02-14 at 12 42 44 AM" src="https://github.com/SamantaRana11/Tableau-Projects/assets/115519320/2b83a3ef-a8a2-4bec-adfd-f6888c8730af">
-
-#
-
+<img width="1470" alt="Screenshot 2024-02-14 at 12 41 21 AM" src="https://github.com/SamantaRana11/Tableau-Projects/assets/115519320/90d5a796-e58f-4f6f-9244-ea0197c91e7e">
+<img width="1470" alt="Screenshot 2024-02-14 at 12 41 25 AM" src="https://github.com/SamantaRana11/Tableau-Projects/assets/115519320/1b5e1933-6737-4896-a870-3349b394a2fc">
+<img width="492" alt="Screenshot 2024-02-14 at 12 42 44 AM" src="https://github.com/SamantaRana11/Tableau-Projects/assets/115519320/c86ce8e8-c946-4c45-9799-97023154de9e">
+<img width="504" alt="Screenshot 2024-02-14 at 12 43 16 AM" src="https://github.com/SamantaRana11/Tableau-Projects/assets/115519320/35a6f97a-3e66-4d70-9489-e4bb890539ad">
