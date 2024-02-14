@@ -12,10 +12,9 @@ This repository contains all the visualizations from existing projects and some 
 
 #
 #
-### This visualization is from the 'Healthcare-Machine Learning Project' called 'Covid - Deaths & Vaccination Analysis'. It is a dynamic dashboard 
+### This visualization is from the 'Healthcare-Machine Learning Project' called 'Covid - Deaths & Vaccination Analysis'. It is a dynamic dashboard and can be viewed here ⇒ [Click Here](https://public.tableau.com/views/BookCVD1-Capstone/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 #
-
 
 <img width="1470" alt="Screenshot 2024-02-14 at 12 41 21 AM" src="https://github.com/SamantaRana11/Tableau-Projects/assets/115519320/90d5a796-e58f-4f6f-9244-ea0197c91e7e">
 <img width="1470" alt="Screenshot 2024-02-14 at 12 41 25 AM" src="https://github.com/SamantaRana11/Tableau-Projects/assets/115519320/1b5e1933-6737-4896-a870-3349b394a2fc">
