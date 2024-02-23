@@ -23,7 +23,8 @@ This repository contains all the visualizations from existing projects and some 
 
 #
 #
-### The following visualization is from the machine learning project - 'Stock Market Analysis', the first visualization reflects various parameters and their affect on the price of the stock measured in USD, and the latter visualization reflects the changes in the price accured in various stock units over the period of 90 days.
+### The following visualization is from the machine learning project - 'Stock Market Analysis', the first visualization reflects various parameters and their affect on the price of the stock measured in USD, and the latter visualization reflects the changes in the price accured in various stock units over the period of 90 days. To view this visualization and related sheets on Tableau => [Click Here](https://public.tableau.com/views/StockAnalysis_17085349536940/ComparativeDash?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 
 #
 
