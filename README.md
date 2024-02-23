@@ -23,5 +23,11 @@ This repository contains all the visualizations from existing projects and some 
 
 #
 #
+### The following visualization is from the machine learning project - 'Stock Market Analysis', the first visualization reflects various parameters and their affect on the price of the stock measured in USD, and the latter visualization reflects the changes in the price accured in various stock units over the period of 90 days.
+
+#
+
 ![Comparative Dash](https://github.com/SamantaRana11/Tableau-Projects/assets/115519320/c792862a-b13a-4178-aad1-55ddb3ce0ab2)
+![90 price change](https://github.com/SamantaRana11/Tableau-Projects/assets/115519320/b80962b0-3626-41ba-b647-e2410a39f168)
+
 
